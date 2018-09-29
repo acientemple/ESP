@@ -1,4 +1,29 @@
 
+
+
+Executive Editor: David Troy Product Manager: Staci Wolfson Marketing Manager: Sarah Schuessler Designer: Terry Mallon Artist: Christine Vernon Art Director: Jennifer Clements Cover Art: Imagineering Compositor: SPi Global 
+7th Edition 
+Copyright . 2014 Lippincott Williams & Wilkins, a Wolters Kluwer business. 351 West Camden Street Two Commerce Square Baltimore, MD 21201 2001 Market Street
+   Philadelphia, PA 19103 
+Printed in China 
+All rights reserved. This book is protected by copyright. No part of this book may be reproduced or trans.mitted in any form or by any means, including as photocopies or scanned-in or other electronic copies, or utilized by any information storage and retrieval system without written permission from the copyright owner, except for brief quotations embodied in critical articles and reviews. Materials appearing in this book prepared by individuals as part of their official duties as U.S. government employees are not covered by the above-mentioned copyright. To request permission, please contact Lippincott Williams & Wilkins at Two Commerce Square, 2001 Market Street, Philadelphia, PA 19103, via e-mail at permissions@lww.com, or via Web site at lww.com (products and services). 
+
+Library of Congress Cataloging-in-Publication Data 
+Cohen, Barbara J. Medical terminology : an illustrated guide / Barbara Janson Cohen, Ann DePetris. — 7th ed.
+ p. 
+; cm.
+ Includes index.
+ ISBN 978-1-4511-8756-4 
+
+
+I.
+ DePetris, Ann. II. Title. 
+[DNLM: 1. Terminology as Topic. W 15]
+ 610.1'4—dc23 
+
+
+
+2012037132 
 DISCLAIMER Care has been taken to confirm the accuracy of the information present and to describe generally accepted practices. However, the authors, editors, and publisher are not responsible for errors or omissions or for any consequences from application of the information in this book and make no warranty, expressed or implied, with respect to the currency, completeness, or accuracy of the contents of the publication. Ap.plication of this information in a particular situation remains the professional responsibility of the practi.tioner; the clinical treatments described and recommended may not be considered absolute and universal recommendations. 
 To purchase additional copies of this book, call our customer service department at (800) 638-3030 or fax orders to (301) 223-2320. International customers should call (301) 223-2300. 
 Visit Lippincott Williams & Wilkins on the Internet: http://www.lww.com. Lippincott Williams & Wilkins cus-tomer service representatives are available from 8:30 am to 6:00 pm, EST. 
@@ -14,24 +39,27 @@ Ann DePetris
 Preface 
 
 Knowledge of medical terminology is fundamental to a 
-wide variety of health care .elds. This book is designed   to satisfy the basic learning requirements needed to practice   in any health career setting. In the course of your training   and future careers, you will need to learn thousands of new  
-terms. The job might be overwhelming if not for learning  
-the skills of dividing the words into their component parts.  
-These roots, suf.xes, and pre.xes appear over and over  
-in different terms but retain the same meanings. Knowing  
-these meanings will help you de.ne and remember a host of  
-words. This process is like using a set of building blocks to  
-assemble different structures. Using a more scienti.c exam- 
-ple, it’s like using the four bases in DNA to code for all the  
-amino acids needed to make proteins.  
-After the introductory sections, each chapter begins  
-with an illustrated overview of a speci.c body system with  
-de.nitions of the key terms related to that system. Tables  
-of word parts and exercises on using them follow. Turning  
-to the abnormal, a section on diseases and treatments is  
-included, followed by de.nitions of relevant key terms.  
-The section of supplementary terms includes words and  
-phrases that are “good to know” if time allows or if some- 
+wide variety of health care .elds. This book is designed 
+to satisfy the basic learning requirements needed to practice 
+in any health career setting. In the course of your training 
+and future careers, you will need to learn thousands of new 
+terms. The job might be overwhelming if not for learning 
+the skills of dividing the words into their component parts. 
+These roots, suf.xes, and pre.xes appear over and over 
+in different terms but retain the same meanings. Knowing 
+these meanings will help you de.ne and remember a host of 
+words. This process is like using a set of building blocks to 
+assemble different structures. Using a more scienti.c exam-
+ple, it’s like using the four bases in DNA to code for all the 
+amino acids needed to make proteins. 
+After the introductory sections, each chapter begins 
+with an illustrated overview of a speci.c body system with 
+de.nitions of the key terms related to that system. Tables 
+of word parts and exercises on using them follow. Turning 
+to the abnormal, a section on diseases and treatments is 
+included, followed by de.nitions of relevant key terms. 
+The section of supplementary terms includes words and 
+phrases that are “good to know” if time allows or if some-
 one is particularly interested in that specialty. The sequence 
 of the systems chapters differs slightly from that found in traditional anatomy and physiology books. The organiza-tion emphasizes their clinical importance, starting with the cardiovascular, respiratory, and digestive systems and con-tinuing with systems treated in more specialized .elds, such as the urinary, reproductive, and musculoskeletal systems. The chapters can be taken out of order once the introduc-tory units are completed. 
 We have tried to make this book easy to use and full of reinforcing drills. We have also included many phonetic pronunciations so you can recognize technical terms when they are spoken and can comfortably use them yourself. The online student learning resources offer many additional activities and an audio glossary. Each chapter opens with a short case study. Some of the words and abbreviations in these studies will be unfamiliar at the start, but return to the opening study after you have completed the chapter, and hopefully, it should make more sense. 
@@ -277,7 +305,8 @@ Answer Key 639 Figure Credits 666 Index of Boxes 671 Index 672
 CHAPTER 1 Concepts of Medical Terminology CHAPTER 2 Suffixes CHAPTER 3 Prefixes CHAPTER 4 Cells, Tissues, and Organs CHAPTER 5 Body Structure Introduction to Medical Terminology 
 
 
-Medical terminology is a special vocabulary used by 
+M
+edical terminology is a special vocabulary used by 
 health care professionals for effective and accurate 
 communication. Every health-related .eld requires an 
 understanding of medical terminology, and this book high-
